@@ -63,21 +63,24 @@ Output:
 {
     "mcpServers": {
         "GithubMCP": {
-            "command": "C:/Users/MAHIREDDY/.local/bin/uv",
+            "command": "your_package manager abs path ex:-C:/Users/username/.local/bin/uv",
             "args": [
                 "--directory",
-                "C:/Users/MAHIREDDY/Desktop/2025Leanrings/Agents_and_automations/mcp/GithubMCP",
+                "your server directory abs path",
                 "run",
-                "main.py"
+                "server.py"
             ]
         }
     }
 }
 ```
+<<<<<<< HEAD
 ->now restart the claude using task manager and then test it out with your mcp server
 ![Claude Mcps](image.png)
 
 ---
+=======
+>>>>>>> 2ce4c61b577b6b96edca6de391e46c4eb6ba1163
 
 
 
