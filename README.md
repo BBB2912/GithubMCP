@@ -78,9 +78,7 @@ Output:
 ->now restart the claude using task manager and then test it out with your mcp server
 ![Claude Mcps](image.png)
 
----
-=======
->>>>>>> 2ce4c61b577b6b96edca6de391e46c4eb6ba1163
+
 
 
 
