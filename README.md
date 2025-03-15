@@ -68,7 +68,7 @@ Output:
                 "--directory",
                 "your server directory abs path",
                 "run",
-                "main.py"
+                "server.py"
             ]
         }
     }
