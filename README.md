@@ -74,8 +74,6 @@ Output:
     }
 }
 ```
-->now restart the claude using task manager and then test it out with your mcp server
----
 
 
 
