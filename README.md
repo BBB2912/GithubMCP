@@ -63,10 +63,10 @@ Output:
 {
     "mcpServers": {
         "GithubMCP": {
-            "command": "C:/Users/MAHIREDDY/.local/bin/uv",
+            "command": "your_package manager abs path ex:-C:/Users/username/.local/bin/uv",
             "args": [
                 "--directory",
-                "C:/Users/MAHIREDDY/Desktop/2025Leanrings/Agents_and_automations/mcp/GithubMCP",
+                "your server directory abs path",
                 "run",
                 "main.py"
             ]
